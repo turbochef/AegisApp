@@ -1,0 +1,17 @@
+export default {
+  tabIconDefault: '#ccc',
+  backgroundColor: '#eee',
+  cardColor: '#fff',
+  headerColor: '#fff',
+  cardText: '#002642',
+  cardSubText: '#738897',
+  highlightColor: '#2DE5C9',
+  highlightShadowColor: 'rgba(0, 0, 0, 0.15)',
+  loadingColor: '#D8DEE2',
+  buttonColor: '#002642',
+  buttonText: '#fff',
+  cardTitle: '#002642',
+  titleColor: '#fff',
+  tabColor: '#fff',
+  tooltipColor: '#B2BEC6',
+};
